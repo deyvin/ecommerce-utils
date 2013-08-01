@@ -12,5 +12,5 @@ require './lib/miniinthebox'
 #extra = Extra.new
 #p extra.qual_preco_do_produto(76171).bank_price
 
-@americanas = Americanas.new
-p @americanas.com_o_produto("113891760").valor_frete('28300000')
+@extra = Extra.new
+p @extra.com_o_produto("194784").valor_frete('28300-000')

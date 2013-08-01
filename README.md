@@ -7,9 +7,9 @@ from Brazilian eCommerce
 ** Stores
 - Submarino (submarino.com.br)
 - Americanas (americanas.com.br)
-- Extra (extra.com.br, Comming soon)
-- Shop Time (shoptime.com.br, soon)
-- Magazine Luiza (magazineluiza.com.br, soon)
+- Extra (extra.com.br)
+- Shop Time (shoptime.com.br, comming soon)
+- Magazine Luiza (magazineluiza.com.br, comming soon)
 
 Project Owner: Deyvid Nascimento from Itaperuna, RJ / Brazil
 Contact: deyvin@gmail.com
